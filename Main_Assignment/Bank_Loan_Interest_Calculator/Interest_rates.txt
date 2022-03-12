@@ -1,0 +1,28 @@
+/*
+    axis_bank_interest_rates{
+        personal_loan=7.35;
+        home_loan=6.75;
+        education_loan=10.70;
+        gold_loan=7.65;
+    }
+    sbi_bank_interest_rates{
+        personal_loan=8.25;
+        home_loan=7.25;
+        education_loan=11.35;
+        gold_loan=8.45;
+    }
+    bom_bank_interest_rates{
+        personal_loan=6.85;
+        home_loan=6.35;
+        education_loan=10.20;
+        gold_loan=7.25;
+    }
+    hdfc_bank_interest_rates{
+        personal_loan=8.75;
+        home_loan=7.45;
+        education_loan=11.65;
+        gold_loan=7.50;
+    }
+    
+
+*/
